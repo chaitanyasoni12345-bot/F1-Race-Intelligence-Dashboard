@@ -1,6 +1,8 @@
 # FORMULA 1 Race Intelligence Dashboard Analysis Report (2010 – 2026)
 
 ## Project Overview
+https://public.tableau.com/authoring/F1RaceIntelligenceDashboardAnalysis2010-2026/TeamPointsTrajectory#1
+
 This repository contains the complete analytical workflow, relational data model, and visualization assets for the **Formula 1 Race Intelligence Dashboard Analysis (2010–2026)**. Built using **Tableau Public**, this project transforms 6,464 granular race records into an interactive multi-scenario decision-support tool. 
 
 The analytical engine addresses real-world operational scenarios across three distinct domain perspectives:
